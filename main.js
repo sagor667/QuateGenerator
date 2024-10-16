@@ -11,3 +11,4 @@ async function generateQuote(uri) {
     document.write(data);
 }
 generateQuote(quateApi);
+console.log(quote);
